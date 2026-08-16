@@ -1,4 +1,4 @@
-# Drink-size-tracker
+# Drink size tracker
 
 An Arduino-based water dispensing project that uses a water level sensor, LCD display, and push button to determine the size of a filled container and calculate its price.
 The system continuously monitors the amount of water being poured. As the water level increases, the displayed container size and price change from Small → Medium → Large. When the user finishes pouring, they press a button to confirm the purchase, and the final size and price are displayed.
