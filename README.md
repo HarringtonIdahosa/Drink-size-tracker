@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/c5e1601f-55d6-4f58-bf2c-428351a1fad0
+
+
+
+
+
 # Drink size tracker
 
 An Arduino-based water dispensing project that uses a water level sensor, LCD display, and push button to determine the size of a filled container and calculate its price.
