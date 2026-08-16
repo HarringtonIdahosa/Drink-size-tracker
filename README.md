@@ -10,9 +10,9 @@ The system continuously monitors the amount of water being poured. As the water 
 * Push Button
 * Jumper Wires
 * Breadboard
-* Potentiometer for LCD contrast
+* Potentiometer
 * USB Cable / Power Supply
-
+* Cup
 
 https://github.com/user-attachments/assets/68ede265-be55-44b2-8492-0e3b6ea665e9
 
