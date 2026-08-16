@@ -12,4 +12,7 @@ The system continuously monitors the amount of water being poured. As the water 
 * Breadboard
 * Potentiometer for LCD contrast
 * USB Cable / Power Supply
-https://github.com/user-attachments/assets/c5e1601f-55d6-4f58-bf2c-428351a1fad0
+
+
+https://github.com/user-attachments/assets/68ede265-be55-44b2-8492-0e3b6ea665e9
+
